@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# local
+pass.txt
+
+# database
+messages.db
